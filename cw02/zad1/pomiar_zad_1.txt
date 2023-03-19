@@ -1,0 +1,5 @@
+TIME LIB: Real: 0.12500 ; User: 0.00000 ; System: 0.00000
+Files tmp and test_to.txt are identical
+
+TIME SYS: Real: 0.05100 ; User: 0.00000 ; System: 0.00000
+Files tmp and test_to.txt are identical

@@ -1,0 +1,4 @@
+TIME for block size: 1    : Real: 0.65200 ; User: 0.00000 ; System: 0.00000
+TIME for block size: 1024 : Real: 0.08300 ; User: 0.00000 ; System: 0.00000
+TIME for block size: 1    : Real: 0.70200 ; User: 0.00000 ; System: 0.00000
+TIME for block size: 1024 : Real: 0.08200 ; User: 0.00000 ; System: 0.00000
