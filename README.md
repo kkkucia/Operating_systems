@@ -1,0 +1,11 @@
+## OPERATING SYSTEM COURSE 2022/23
+- [Memory allocation and libraries](https://github.com/kkkucia/Operating_systems/tree/main/cw01)
+- [Files operations](https://github.com/kkkucia/Operating_systems/tree/main/cw02)
+- [Processes](https://github.com/kkkucia/Operating_systems/tree/main/cw03)
+- [Signals](https://github.com/kkkucia/Operating_systems/tree/main/cw04)
+- [Pipes](https://github.com/kkkucia/Operating_systems/tree/main/cw05)
+- [IPC - queues](https://github.com/kkkucia/Operating_systems/tree/main/cw06)
+- [IPC - semaphores and shared memory](https://github.com/kkkucia/Operating_systems/tree/main/cw07)
+- [Threads](https://github.com/kkkucia/Operating_systems/tree/main/cw08)
+- [Mutexes](https://github.com/kkkucia/Operating_systems/tree/main/cw09)
+- [Sockets](https://github.com/kkkucia/Operating_systems/tree/main/cw10)
