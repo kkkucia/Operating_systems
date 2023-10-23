@@ -1,0 +1,72 @@
+Sender id: 0
+Message type: 5
+Time of sending 2023-04-20 19:30:41
+Message: 1510535169
+Sender id: 0
+Message type: 5
+Time of sending 2023-04-20 19:30:47
+Message: 1661530113
+Sender id: 1
+Message type: 1
+Time of sending 2023-04-20 19:30:50
+Message: 
+Sender id: 0
+Message type: 5
+Time of sending 2023-04-20 19:30:53
+Message: 1862856705
+Sender id: 1
+Message type: 1
+Time of sending 2023-04-20 19:30:55
+Message: 
+Sender id: 0
+Message type: 5
+Time of sending 2023-04-20 19:31:09
+Message: 2013851649
+Sender id: 1
+Message type: 2
+Time of sending 2023-04-20 19:31:11
+Message: 
+Sender id: 0
+Message type: 5
+Time of sending 2023-04-20 19:31:17
+Message: 2047406081
+Sender id: 0
+Message type: 5
+Time of sending 2023-04-20 19:31:19
+Message: 2080960513
+Sender id: 3
+Message type: 3
+Time of sending 2023-04-20 19:31:29
+Message: "WITAM WSZYSTKICH"
+Sender id: 2
+Message type: 3
+Time of sending 2023-04-20 19:32:01
+Message: "Ja również witam wszystkich"
+Sender id: 2
+Message type: 1
+Time of sending 2023-04-20 19:32:05
+Message: 
+Sender id: 1
+Message type: 2
+Time of sending 2023-04-20 19:32:09
+Message: 
+Sender id: 1
+Message type: 4
+Time of sending 2023-04-20 19:32:27
+Message: "A ja witam tylko Pana 0"
+Sender id: 1
+Message type: 1
+Time of sending 2023-04-20 19:32:35
+Message: 
+Sender id: 3
+Message type: 2
+Time of sending 2023-04-20 19:32:38
+Message: 
+Sender id: 3
+Message type: 1
+Time of sending 2023-04-20 19:32:40
+Message: 
+Sender id: 0
+Message type: 1
+Time of sending 2023-04-20 19:32:56
+Message: 
